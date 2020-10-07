@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.791" height="42.625" viewBox="0 0 22.791 42.625">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #040404;
+      }
+    </style>
+  </defs>
+  <g id="pin-in-the-map" transform="translate(0 0)">
+    <g id="Group_13" data-name="Group 13">
+      <g id="Group_12" data-name="Group 12">
+        <path id="Path_9" data-name="Path 9" class="cls-1" d="M76.955,11.391a3.919,3.919,0,1,1-3.919-3.915A3.922,3.922,0,0,1,76.955,11.391Zm7.476,0a11.339,11.339,0,0,1-.734,4c-1.493,4.436-11.38,27.239-11.38,27.239S63.008,17.762,62.2,14.911A11.394,11.394,0,1,1,84.431,11.39Zm-4.125.046a7.269,7.269,0,1,0-7.27,7.268A7.27,7.27,0,0,0,80.306,11.435Z" transform="translate(-61.64 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
