@@ -328,6 +328,7 @@ h2 {
   line-height: 25px;
   font-size: 15px;
   padding-bottom: 8px;
+  margin-bottom: 50px;
 }
 
 .speaker button {
@@ -629,6 +630,8 @@ footer h3 {
     justify-content: space-evenly;
     padding: 50px 10px;
     margin-bottom: 0;
+    position: sticky;
+    /* top: 0; */
   }
 
   .left a {
